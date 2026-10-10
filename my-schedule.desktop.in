@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=My Schedule
+Comment=Calendar, tasks, and notes
+Exec=DarkShell
+Icon=my-schedule
+Terminal=false
+Categories=Office;Calendar;Utility;
+StartupNotify=true
